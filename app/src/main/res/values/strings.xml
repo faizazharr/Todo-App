@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Todos App</string>
+    <string name="retry">Retry</string>
+    <string name="no_data">No data</string>
+    <string name="no_todos">No todos</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="show_only_completed">Show only completed</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_pending">Pending</string>
+    <string name="section_todo_id">Todo #%1$d</string>
+    <string name="user_id_label">User ID: %1$d</string>
+    <string name="select_item_on_left">Pilih item di sebelah kiri</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    <string name="mark_as_pending">Mark as Pending</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
